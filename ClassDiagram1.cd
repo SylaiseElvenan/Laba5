@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Laba5.AddContact">
+    <Position X="8.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAABICAAAAAAQACAAAACAEABAEAAAAAAIAAAAAA=</HashCode>
+      <FileName>AddContact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba5.Debt">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Debt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba5.Genre">
+    <Position X="2.5" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAICAAAAAAAAKAAAACAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Genre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba5.Main">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAASBEA4DCAABAAIAACAIwCAAAAA=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba5.NewFilm">
+    <Position X="6.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAISEICkAAAACBAAACAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>NewFilm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba5.Return">
+    <Position X="10.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAFAAAACBAAQCAAAAAAAAAAAAAAIgACA=</HashCode>
+      <FileName>Return.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba5.Take">
+    <Position X="4.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAABACAAAEAACACBAAACAAAAAAAACACAAAIgCEA=</HashCode>
+      <FileName>Take.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba5.DB">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>DB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba5.SELECT">
+    <Position X="10.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>SELECT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
